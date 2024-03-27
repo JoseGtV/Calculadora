@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"main","l":"Calculadora"},{"p":"testes","l":"DivisaoTeste"},{"p":"testes","l":"MultiplicacaoTeste"},{"p":"testes","l":"SomaTeste"},{"p":"testes","l":"SubtracaoTeste"}];updateSearchResults();
